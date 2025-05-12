@@ -3,13 +3,11 @@
 
    (enter your username and pwd)
    
-    ## docker login -u username
+     docker login -u username
 
 ### 1. To  Pull the Docker Image
-
-   (pull the image)
    
-   docker pull maramsindhu/my-app
+     docker pull maramsindhu/my-app
 
 ### 2. To Run the Container
    
@@ -17,4 +15,4 @@
 
 ### 3. To Access the Application
 
-    ## http://localhost:3000
+       http://localhost:3000
