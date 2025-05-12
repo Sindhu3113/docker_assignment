@@ -6,12 +6,14 @@
     ## docker login -u username
 
 ### 1. To  Pull the Docker Image
-    
-   ## docker pull maramsindhu/my-app
+
+   (pull the image)
+   
+   docker pull maramsindhu/my-app
 
 ### 2. To Run the Container
    
-   ## docker run -d -p 3000:3000 maramsindhu/my-app
+    docker run -d -p 3000:3000 maramsindhu/my-app
 
 ### 3. To Access the Application
 
